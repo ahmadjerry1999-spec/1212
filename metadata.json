@@ -1,0 +1,8 @@
+{
+  "name": "RX Recorder",
+  "description": "EHR & prescription history management system for RX Recorder with Gemini AI automated note extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
